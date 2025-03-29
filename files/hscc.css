@@ -474,3 +474,9 @@ section#sponsors img {
     margin-top: 0.15em;
     list-style: inside;
 }
+
+section h2 {
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 0;
+}
